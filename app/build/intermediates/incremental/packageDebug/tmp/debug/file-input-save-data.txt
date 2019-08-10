@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Aug 11 02:16:21 ICT 2019
+#Sun Aug 11 02:39:03 ICT 2019
 0.baseType=DIRECTORY
 0.base=D\:\\59160383\\Mobile2\\diceRoller\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex

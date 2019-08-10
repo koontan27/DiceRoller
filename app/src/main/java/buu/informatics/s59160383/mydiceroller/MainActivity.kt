@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.Toast
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
@@ -21,8 +20,8 @@ class MainActivity : AppCompatActivity() {
 
 
 
-//        val resetButton: Button = findViewById(R.id.reset_button)
-//        resetButton.setOnClickListener { resultText.text = "0" }
+        val resetButton: Button = findViewById(R.id.reset_button)
+        resetButton.setOnClickListener { diceImage.setImageResource(R.drawable.empty_dice) }
     }
 
     private fun rollDice() {
