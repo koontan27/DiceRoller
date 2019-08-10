@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
+    ir-eligibility="METHOD_DELETED"
     plugin-version="3.4.2"
-    timestamp="1565459177605"
+    timestamp="1565461174468"
     token="-4510980673002124930"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="10" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="22" />
+        duration="24" />
     <task
         name="verifier"
-        duration="6" />
+        duration="2" />
 
     <artifact
         location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -74,8 +74,44 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1565459177605"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1565460744960"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="METHOD_DELETED"
+        timestamp="1565461174468"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\59160383\Mobile2\diceRoller-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
