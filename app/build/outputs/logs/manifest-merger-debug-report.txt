@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\50584871de86ab22d7fe497ed70fdb75\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\0ecb6ff25b7e9a1f56946e1465999a6c\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\0b52c52904c19c17de398e55c0c3ff17\AndroidManifest.xml:2:1-11:12
@@ -32,25 +32,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tanizkie\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\d1eb38fd97e5aefa0bd7224b9246f761\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\1f25b0c78e2fa07ee7e91d3b905a4b98\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\c8f45286d589942956db06043f68853f\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:3:11-59
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:3:11-59
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\0b52c52904c19c17de398e55c0c3ff17\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\0b52c52904c19c17de398e55c0c3ff17\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\9ff3e3ee3199909906bac7ffd882be3e\AndroidManifest.xml:22:5-89
@@ -60,35 +60,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ta
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\9ff3e3ee3199909906bac7ffd882be3e\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:10:13-39
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:10:13-39
 	android:label
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:8:13-45
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:8:13-45
 	android:roundIcon
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:9:13-58
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:9:13-58
 	android:icon
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:7:13-47
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:7:13-47
 	android:allowBackup
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:6:13-39
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:6:13-39
 	android:theme
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:11:13-44
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:11:13-44
 activity#buu.informatics.s59160383.mydiceroller.MainActivity
-ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:14:17-68
+ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:14:17-68
 	android:name
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:16:17-76
+ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:16:17-76
 	android:name
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\50584871de86ab22d7fe497ed70fdb75\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\50584871de86ab22d7fe497ed70fdb75\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\0ecb6ff25b7e9a1f56946e1465999a6c\AndroidManifest.xml:5:5-44
@@ -145,13 +145,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tanizkie
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\1f25b0c78e2fa07ee7e91d3b905a4b98\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\c8f45286d589942956db06043f68853f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tanizkie\.gradle\caches\transforms-2\files-2.1\c8f45286d589942956db06043f68853f\AndroidManifest.xml:20:5-44
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\59160383\Mobile2\diceRoller-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160383\Mobile2\diceRoller\app\src\main\AndroidManifest.xml

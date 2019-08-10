@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\59160383\\Mobile2\\diceRoller-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\59160383\\Mobile2\\diceRoller\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tanizkie\\.gradle\\caches\\transforms-2\\files-2.1\\9ff3e3ee3199909906bac7ffd882be3e\\res\\values-v16\\values-v16.xml",

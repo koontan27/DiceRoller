@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\59160383\\Mobile2\\diceRoller-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\59160383\\Mobile2\\diceRoller\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tanizkie\\.gradle\\caches\\transforms-2\\files-2.1\\50584871de86ab22d7fe497ed70fdb75\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\59160383\\Mobile2\\diceRoller-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\59160383\\Mobile2\\diceRoller\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,2",
                         "startColumns": "4,4",
@@ -37,25 +37,6 @@
                         "startOffsets": "22533,22584",
                         "endColumns": "50,37",
                         "endOffsets": "22579,22617"
-                    }
-                },
-                {
-                    "source": "D:\\59160383\\Mobile2\\diceRoller-master\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
-                    },
-                    "to": {
-                        "startLines": "386",
-                        "startColumns": "4",
-                        "startOffsets": "23188",
-                        "endLines": "391",
-                        "endColumns": "12",
-                        "endOffsets": "23502"
                     }
                 },
                 {
@@ -75,23 +56,6 @@
                         "endLines": "2,10,11,12,13,14,20,23,24,25,28,29,32,35,36,37,38,39,42,45,46,47,48,53,56,59,60,61,66,67,68,71,74,75,78,81,84,87,88,91,94,95,100,101,106,109,112,113,114,115,116,117,118,119,120,121,130,2547,2548,2549,2786",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
                         "endOffsets": "161,452,500,552,613,659,902,1057,1117,1187,1320,1388,1517,1643,1705,1770,1838,1905,2028,2153,2220,2285,2350,2531,2652,2773,2839,2906,3116,3185,3251,3376,3502,3569,3695,3822,3947,4074,4139,4265,4388,4453,4661,4728,4908,5028,5148,5213,5275,5337,5399,5458,5518,5579,5640,5699,6074,162427,162559,165823,179891"
-                    }
-                },
-                {
-                    "source": "D:\\59160383\\Mobile2\\diceRoller-master\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "153,154,155",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7704,7750,7797",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7745,7792,7843"
                     }
                 },
                 {
@@ -130,6 +94,42 @@
                         "endLines": "178,179,275,276,277,278,279,280,281,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,314,315,321,322,326,327,328,329,330,331,337,380,1701,1705,1706,1710,1711,1848,1849,2520,2709,2741,2778,2785",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "9265,9328,15921,15989,16061,16131,16192,16266,16339,17184,17245,17307,17371,17433,17494,17562,17662,17722,17788,17861,17930,17987,18039,18101,18626,18702,18976,19011,19203,19264,19321,19355,19390,19425,19770,22741,110743,110944,111054,111255,111384,122282,122349,158459,175581,177646,179406,179783"
+                    }
+                },
+                {
+                    "source": "D:\\59160383\\Mobile2\\diceRoller\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "386",
+                        "startColumns": "4",
+                        "startOffsets": "23188",
+                        "endLines": "391",
+                        "endColumns": "12",
+                        "endOffsets": "23502"
+                    }
+                },
+                {
+                    "source": "D:\\59160383\\Mobile2\\diceRoller\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "153,154,155",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7704,7750,7797",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7745,7792,7843"
                     }
                 }
             ]

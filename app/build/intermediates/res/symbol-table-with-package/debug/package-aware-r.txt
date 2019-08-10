@@ -628,6 +628,13 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable dice_1
+drawable dice_2
+drawable dice_3
+drawable dice_4
+drawable dice_5
+drawable dice_6
+drawable empty_dice
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -694,6 +701,7 @@ id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
+id dice_image
 id dimensions
 id direct
 id disableHome
@@ -739,7 +747,6 @@ id progress_circular
 id progress_horizontal
 id radio
 id reset_button
-id result_text
 id right
 id right_icon
 id right_side
